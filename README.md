@@ -1,4 +1,9 @@
-## Olá eu sou o Caio Suarez, programador web 
+## Hello, my name is Caio and I am always looking to learn new things
+### I work with front end, but in my spare time I like to learn about back end as well.
+
+### Currently learning: 
+- Typescript
+- GraphQL
 
 <div align="center">
   <a href="https://github.com/caiosuarez">
