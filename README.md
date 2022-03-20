@@ -1,4 +1,5 @@
 ## Hello, my name is Caio and I am always looking to learn new things
+![giphy (1)](https://user-images.githubusercontent.com/27926021/159146095-742a9611-9aab-4622-9756-2986dbb4f1b8.gif)
 ### I work with front end, but in my spare time I like to learn about back end as well.
 
 ### Currently learning: 
