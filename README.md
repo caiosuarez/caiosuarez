@@ -17,10 +17,7 @@
 
   ##
   <div>
-    <a href = "mailto:caiosasia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/caio-suarez-941945117" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white" target="_blank"></a>     
   </div>
   
-  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/27926021/159145801-be5dc3a5-e14b-49ad-bbc9-5d548a9a87ce.svg)
-
- 
+  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/27926021/159145801-be5dc3a5-e14b-49ad-bbc9-5d548a9a87ce.svg) 
