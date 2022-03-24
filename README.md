@@ -5,6 +5,7 @@
 ### Currently learning: 
 - Typescript
 - GraphQL
+- Jest
 
 <div align="center">
   <a href="https://github.com/caiosuarez">
