@@ -2,10 +2,14 @@
 ![giphy (1)](https://user-images.githubusercontent.com/27926021/159146095-742a9611-9aab-4622-9756-2986dbb4f1b8.gif)
 ### I work with front end, but in my spare time I like to learn about back end as well.
 
-### Currently learning: 
+### Currently working with: 
+- React
 - Typescript
 - GraphQL
+
+### Currently learning: 
 - Jest
+- Redux
 
 <div align="center">
   <a href="https://github.com/caiosuarez">
