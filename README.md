@@ -3,7 +3,7 @@
 ### I work with front end, but in my spare time I like to learn about back end as well.
 
 ### Currently working with: 
-- React
+- NextJS
 - Typescript
 - GraphQL
 
